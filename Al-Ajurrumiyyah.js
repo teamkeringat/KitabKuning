@@ -2,7 +2,7 @@
    Unggah file ini ke: https://teamkeringat.github.io/KitabKuning/Al-Ajurrumiyyah.js
    Katalog akan memuatnya otomatis saat kitab ini dipilih. */
 window.KITAB = window.KITAB || {};
-window.KITAB["Al-Jurrumiyyah"] = {
+window.KITAB["Al-Ajurrumiyyah"] = {
   sebutan: "Bab",
   catatan: "Kitab dasar ilmu Nahwu (tata bahasa Arab) yang sangat populer di pesantren. Teks Arab dan terjemahan disalin dan diringkas dari PDF 'Al-Mumti' fi Syarhi Al-Ajurrumiyyah'.",
   bab: [
