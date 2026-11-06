@@ -1,8 +1,8 @@
-/* ISI KITAB: Al-Ajurrumiyyah (الْآجُرُّومِيَّةُ) karya Ibnu Ajurrum (w. 723 H).
-   Unggah file ini ke: https://teamkeringat.github.io/KitabKuning/AlAjurrumiyyah.js
+/* ISI KITAB: Al-Jurrumiyyah (الْآجُرُّومِيَّةُ) karya Ibnu Ajurrum (w. 723 H).
+   Unggah file ini ke: https://teamkeringat.github.io/KitabKuning/Al-Jurrumiyyah.js
    Katalog akan memuatnya otomatis saat kitab ini dipilih. */
 window.KITAB = window.KITAB || {};
-window.KITAB["Al-Ajurrumiyyah"] = {
+window.KITAB["Al-Jurrumiyyah"] = {
   sebutan: "Bab",
   catatan: "Kitab dasar ilmu Nahwu (tata bahasa Arab) yang sangat populer di pesantren. Teks Arab dan terjemahan disalin dan diringkas dari PDF 'Al-Mumti' fi Syarhi Al-Ajurrumiyyah'.",
   bab: [
