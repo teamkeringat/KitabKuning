@@ -1,5 +1,5 @@
-/* ISI KITAB: Al-Jurrumiyyah (الْآجُرُّومِيَّةُ) karya Ibnu Ajurrum (w. 723 H).
-   Unggah file ini ke: https://teamkeringat.github.io/KitabKuning/Al-Jurrumiyyah.js
+/* ISI KITAB: Al-Ajurrumiyyah (الْآجُرُّومِيَّةُ) karya Ibnu Ajurrum (w. 723 H).
+   Unggah file ini ke: https://teamkeringat.github.io/KitabKuning/Al-Ajurrumiyyah.js
    Katalog akan memuatnya otomatis saat kitab ini dipilih. */
 window.KITAB = window.KITAB || {};
 window.KITAB["Al-Jurrumiyyah"] = {
