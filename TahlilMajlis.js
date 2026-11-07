@@ -1,5 +1,5 @@
 /* ISI KITAB: Hadiah Tahlil
-   Unggah file ini ke: https://teamkeringat.github.io/KitabKuning/HadiahTahlil.js
+   Unggah file ini ke: https://teamkeringat.github.io/KitabKuning/TahlilMajlis.js
    Katalog akan memuatnya otomatis saat kitab ini dipilih. */
 window.KITAB = window.KITAB || {};
 window.KITAB["Hadiah Tahlil"] = {
